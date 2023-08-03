@@ -30,9 +30,9 @@ We welcome contributions from the open-source community to improve our charging 
 
 For any inquiries, partnership opportunities, or support, feel free to reach out to us:
 
-- Email: contact@glcharge.com
-- Website: [www.glcharge.com](https://www.glcharge.com)
-- Follow us on Twitter: [@GLChargeOfficial](https://twitter.com/GLChargeOfficial)
+- Email: info@glcharge.com
+- [Website](https://glcharge.com)
+- [LinkedIn](https://www.linkedin.com/company/gl-charge/)
 
 Join us in our mission to drive sustainable development through innovative electric vehicle charging solutions! Together, we can power the change to a greener future.
 
